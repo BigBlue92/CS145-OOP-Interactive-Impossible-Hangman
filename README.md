@@ -1,2 +1,2 @@
 # Hangman
-A hangman program that uses recursion to find a new answer after each guess
+A hangman program that cheats and finds a new answer after each guess
